@@ -1,0 +1,6 @@
+beautifulsoup4==4.12.2 # HTML을 수정하여 쉽게 탐색할 수 있는 XML 형식의 파이썬 객체로 변환
+html5lib==1.1 # 잘못 만들어진 HTML이나 손으로 쓴 HTML을 분석해야 할 때 좋은 선택
+lxml==4.9.3 # 서드파티 C 언어 라이브러리가 있어야 제대로 돌아감
+six==1.16.0
+soupsieve==2.5
+webencodings==0.5.1
